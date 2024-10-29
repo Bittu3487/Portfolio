@@ -1,0 +1,79 @@
+[
+    {
+      "key": 1,
+      "title": "My Weather App",
+      "imageSrc": "https://png.pngtree.com/png-vector/20230330/ourmid/pngtree-sun-behind-cloud-weather-icon-for-mobile-app-vector-png-image_51186194.jpg",
+      "description": "This is a project made with complete Node js.",
+      "source": "https://github.com/Bittu3487/WeatherApp"
+    },
+    {
+      "key": 2,
+      "title": "Book Finder App",
+      "imageSrc": "https://img.freepik.com/premium-vector/book-finder-logo-design-template_145155-3144.jpg",
+      "description": "This is a project made with complete Node js with Express js.",
+      "source": "https://github.com/Bittu3487/BookFinderAPP"
+    },
+    {
+      "key": 3,
+      "title": "Anime Explorer",
+      "imageSrc": "https://previews.dropbox.com/p/thumb/ACdN1jC7wpd6dtwgeJuPtw9klDDEgXLswc8sXlvTPtECNaXwvIZDGxkGp_VJVuoSK1AHjZmbpctMKNXP6RuUYobvhoOn8bnAt1mrQC6piGE122CL6KLNiHl3McDJhy8N9LoQp56LHAz9jpQZxkfPEN3HDqBWw85H_Eu03Q-Ahw-ygmKueFdIDDNT4DMYXC17HFjwZ2UmfuiEorJttGYKELlin7I3OXdMm0GrLocHMiSgOPHsWaPf35VDFYiIra7eGzho_xg5MNlZcEM5ZfOi8L9iK2r6w2iePXlREBL7NI0oP3NLP48pCyqskgKEkTRkOb1LRkGEUJkmNn88TZqM3uKU/p.png?is_prewarmed=true",
+      "description": "This is a project made with complete Node js with Express js and ejs.",
+      "source": "https://github.com/Bittu3487/AnimeExplorer"
+    },
+    {
+      "key": 4,
+      "title": "Text Utilize",
+      "imageSrc": "https://previews.dropbox.com/p/thumb/ACftlktC_u9KDT11F9hV0bBV01fHmnLCwX7-XajBk6groFMuZpe7cSCme-g_WkRi-pVTbJVrhrikTnu3vqim2RXW1utStkJfEjTgmKYaIvsHHtn_5uAAs1FVIKUeDU1-ud_zeDktEJDzsNPTKV1bUDEb726CVnB9LEhpffkWWlRtL9xSE6JTHDLyYK9IQWUuK8bXSDwr4A-lBvyj4tmWD-TjR46Udqf7co3ZvHdt0BRMJEMkhiRAAjOFGgwJqNAOcM1y94u5a8xF5fF76Gp3Rs5VFxyeeWVy8VYas0xcc9J8pHVdGoQmRY82cWDgFcV-hzz5HnrPQk1htP0TSLs5C8st/p.png?is_prewarmed=true",
+      "description": "This is a project made with complete React js",
+      "demo":"https://bittu3487.github.io/TextUtilize/",
+      "source": "https://github.com/Bittu3487/TextUtilize"
+    },
+    {
+      "key": 5,
+      "title": "Musicify App",
+      "imageSrc": "https://previews.dropbox.com/p/thumb/ACesprqvFN6S0tXwavqL0dVvfntcVbtRRwZjNIOqfOXDLFs9PuCvP3GWWjNJpGOYYDnP4LldRn-Zif_z-H6LzSlVE_uvFi-MiQ-mRmvQKXZnEV7DO0kuVFTlQZyeodL5SsYQcPy5-sPITdQ0HF3BX0RUswETwbdgdd3QcEG0F6UzjXBk4Bb1QOwUix2cvSiTPjWjD1a8HkvdXQxfV8ikEMpGyEwQ77FG4tsHS08yGHiAPoPVnYSE7C3l2HE3bX5H8MJPjKg61np9m-dLGyLAJJv4-k0HZZ-ApzORg_APEiLItFh4FNMSzGQ0ABSw0LAQlT8ftGeilsM9rgtSyl5alelW/p.png?is_prewarmed=true",
+      "description": "This is a project made with complete React js",
+      "demo":"https://mymusify.netlify.app/",
+      "source": "https://github.com/Bittu3487/MusifyApp"
+    },
+    {
+      "key": 6,
+      "title": "Chatbot App",
+      "imageSrc": "https://previews.dropbox.com/p/thumb/ACf-vp8SoXk-5zn0KrdSihp7UKy50wQv3oafw_075x4BSicl0Bgp-J6uG7cVCBZeVvdzwKm3oyUsNpgEtqg7op6cA8Cqrh3Vmgm5heIcRvpJ3MyIY8nlcnh7_lj0nZA7OczfBuVFQ5CpcvMEFt9abhBF2adkm7ur6V1GodSpJzs-O0KfPGbWZJGHchyT8XVW8xtHAkch3ACEyRU2UbO9nZSmnJM5BEkz41x8sOa5uvq_P1VT9mlw0nMnyCloqbKD9Zpv0Rh47w55LBxW777IsqXwfxoErdZf0zmOZ_qPOWFXgdZXKjjbYS9qH_-C9BhgEp1i6dOD5dUqbGoysgVOMRsf/p.png?is_prewarmed=true",
+      "description": "This is a project made with Python flask",
+      "demo":"",
+      "source": "https://github.com/Bittu3487/ChatBotApp"
+    },
+    {
+      "key": 7,
+      "title": "CodeExplanation App",
+      "imageSrc": "https://previews.dropbox.com/p/thumb/ACeUCu19NNm7TLSl88hBW8WWEdon8Aor0_I8Br3iDYdYUclNsILDE58badETXeEbYcjfQY5bLutztDqhCFacaYaUUJL8vY2ADwOAtWOjst9bSl5yCy7FcDg5tAcxp4w40v94jmKG--glRbskbIxWJUX2aemNO7N7IqdR-1q-AAMyUmPlB8XersSRAMTQd92ElW6LTsXx3kTMoE_EGpg4QtQbaJvEAvLDmsBET0sj6p4BXGJ6BvTHR6cCGHNrXtrEh3gjvCxSaUPO9nSlrNmdmFry3tGRJbtd-7Jh4nCgY5A-b3e7H-ZWwskjYywYaHjKpXI1J6F6y4RxbsFz884SEj7N/p.png?is_prewarmed=true",
+      "description": "This is a project made with Python flask",
+      "demo":"",
+      "source": "https://github.com/Bittu3487/CodeExplaination"
+    },
+    {
+      "key": 8,
+      "title": "CocktailFinder App",
+      "imageSrc": "https://previews.dropbox.com/p/thumb/ACdniqb5hQd2wdUssdYYfF6Ejuxb6MayQArGxw2zUmWmHPAcL4KHrOavg7zCsDQzKVeBDIlu8I_ymfT_pMXwt9wLt39ZEfMlMmU-ksz2G3gjXs4C3xeFuQIq-o9F-3kNI17wVCktkT_iHrhHrWrZRv7SElBCE_IIYTUUdQP-deGGsoSiUjfE2loaNsmfc96sI2zlMUpvPLRGWaN5u2huL78Bdxo8t82IxkIktGeuW0HpzjMVzD5o8Lu07RBhZvCmQsFoy1bLy9dG93v4PP_2SqQRFU-Wm-NmraIxmUtvNmFXeAgvpMz0tYOXw3p_b9EolLK1udEIlZSOY0ZiupY78_Pf/p.png?is_prewarmed=true",
+      "description": "This is a project made with Complete Node js and express js",
+      "demo":"https://cocktailfinder-xmym.onrender.com/",
+      "source": "https://github.com/Bittu3487/CocktailFinder"
+    },
+    {
+      "key": 8,
+      "title": "TodoList",
+      "imageSrc": "https://img.freepik.com/free-vector/colorful-todo-list-illustration_1308-172589.jpg",
+      "description": "This is a project made with complete React js.",
+      "demo":"https://todolistnotesapp.netlify.app/",
+      "source": "https://github.com/Bittu3487/TodoListNotes"
+    },
+    {
+      "key": 9,
+      "title": "My Keeper App",
+      "imageSrc": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-keep-logo-circle-3.jpg?quality=82&strip=all&w=1600",
+      "description": "This is a project made with complete React js.",
+      "demo":"https://tubular-gumdrop-caf1c0.netlify.app/",
+      "source": "https://github.com/Bittu3487/myKeeperApp"
+    }
+  ]
