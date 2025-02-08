@@ -1,5 +1,5 @@
 import React from 'react';
-import pdf from '../pdf/CV Debashis-1 (1).pdf';
+import pdf from '../pdf/DebashisResume.pdf';
 import Typed from "typed.js";
 import { useEffect, useRef } from "react";
 
