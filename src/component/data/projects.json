@@ -16,14 +16,14 @@
     {
       "key": 3,
       "title": "Anime Explorer",
-      "imageSrc": "https://previews.dropbox.com/p/thumb/ACdN1jC7wpd6dtwgeJuPtw9klDDEgXLswc8sXlvTPtECNaXwvIZDGxkGp_VJVuoSK1AHjZmbpctMKNXP6RuUYobvhoOn8bnAt1mrQC6piGE122CL6KLNiHl3McDJhy8N9LoQp56LHAz9jpQZxkfPEN3HDqBWw85H_Eu03Q-Ahw-ygmKueFdIDDNT4DMYXC17HFjwZ2UmfuiEorJttGYKELlin7I3OXdMm0GrLocHMiSgOPHsWaPf35VDFYiIra7eGzho_xg5MNlZcEM5ZfOi8L9iK2r6w2iePXlREBL7NI0oP3NLP48pCyqskgKEkTRkOb1LRkGEUJkmNn88TZqM3uKU/p.png?is_prewarmed=true",
+      "imageSrc": "https://www.dropbox.com/scl/fi/cf1d52nw450385m8yhxj9/anime.webp?rlkey=r63cigoluffevfyqzgn6ao8zk&st=8zw3wg3a&dl=0",
       "description": "This is a project made with complete Node js with Express js and ejs.",
       "source": "https://github.com/Bittu3487/AnimeExplorer"
     },
     {
       "key": 4,
       "title": "Text Utilize",
-      "imageSrc": "https://previews.dropbox.com/p/thumb/ACftlktC_u9KDT11F9hV0bBV01fHmnLCwX7-XajBk6groFMuZpe7cSCme-g_WkRi-pVTbJVrhrikTnu3vqim2RXW1utStkJfEjTgmKYaIvsHHtn_5uAAs1FVIKUeDU1-ud_zeDktEJDzsNPTKV1bUDEb726CVnB9LEhpffkWWlRtL9xSE6JTHDLyYK9IQWUuK8bXSDwr4A-lBvyj4tmWD-TjR46Udqf7co3ZvHdt0BRMJEMkhiRAAjOFGgwJqNAOcM1y94u5a8xF5fF76Gp3Rs5VFxyeeWVy8VYas0xcc9J8pHVdGoQmRY82cWDgFcV-hzz5HnrPQk1htP0TSLs5C8st/p.png?is_prewarmed=true",
+      "imageSrc": "https://www.dropbox.com/scl/fi/lmciy8aqf8prp5tq532d4/Screenshot-2024-10-29-084451.png?rlkey=57v71y5469nsg5b550nknrn78&st=8bg8ves3&dl=0",
       "description": "This is a project made with complete React js",
       "demo":"https://bittu3487.github.io/TextUtilize/",
       "source": "https://github.com/Bittu3487/TextUtilize"
@@ -31,7 +31,7 @@
     {
       "key": 5,
       "title": "Musicify App",
-      "imageSrc": "https://previews.dropbox.com/p/thumb/ACesprqvFN6S0tXwavqL0dVvfntcVbtRRwZjNIOqfOXDLFs9PuCvP3GWWjNJpGOYYDnP4LldRn-Zif_z-H6LzSlVE_uvFi-MiQ-mRmvQKXZnEV7DO0kuVFTlQZyeodL5SsYQcPy5-sPITdQ0HF3BX0RUswETwbdgdd3QcEG0F6UzjXBk4Bb1QOwUix2cvSiTPjWjD1a8HkvdXQxfV8ikEMpGyEwQ77FG4tsHS08yGHiAPoPVnYSE7C3l2HE3bX5H8MJPjKg61np9m-dLGyLAJJv4-k0HZZ-ApzORg_APEiLItFh4FNMSzGQ0ABSw0LAQlT8ftGeilsM9rgtSyl5alelW/p.png?is_prewarmed=true",
+      "imageSrc": "https://www.dropbox.com/scl/fi/lo57t0g7y6bgm01q8s1ay/Screenshot-2024-10-29-085209.png?rlkey=5ohl823jsh53xmqussyrq58o9&st=zugwwn64&dl=0",
       "description": "This is a project made with complete React js",
       "demo":"https://mymusify.netlify.app/",
       "source": "https://github.com/Bittu3487/MusifyApp"
@@ -39,7 +39,7 @@
     {
       "key": 6,
       "title": "Chat Application",
-      "imageSrc": "https://previews.dropbox.com/p/thumb/ACeW-7EEKytBAhxikZGSOTDhbN8sgwvZUvXG9k5upWkcpTWY-FZ-guG1YlY7W3gEiZU4I8BPbW5cO1qXfOHVqiYfHv0N3Yi4xoHc_BjA-bbT2pk5x4b6I7aauvYnmtoHC0L5l4nTu9GqeNXz_ez2pUCOyTEcFMLjWkqDVYT-NMguZbXCr_04Retqd3i6e6L-A7L70gyCLTs1ZO6DHQHdDClpaY3bG6zze_IAUZg23FHAJ5zuwQSAYwdzniXEutRPe2ihylx3PiW8WWO2l478_BmuZlvq4_GJQX9pCMUyDZ8Kq-GInhrzhN_9q7kOkV3UeJSIXty-FuulSRyfAMgBIYUS/p.png?is_prewarmed=true",
+      "imageSrc": "https://www.dropbox.com/scl/fi/mpbngadb2xzj8z2dhte2p/DALL-E-2024-10-30-11.26.26-A-modern-responsive-chat-application-interface-inspired-by-popular-messaging-apps-like-WhatsApp-and-Instagram-showing-a-conversation-with-messages-s.webp?rlkey=mvh7sqdh8xvob810zz9l06bmi&st=tc79rkmc&dl=0",
       "description": "This is a project Frontend made with React js and Backend made with Node js, express js, PostgreSQL database",
       "demo":"https://chat-app-22xy-aw81se6ts-debashisgoswami159-gmailcoms-projects.vercel.app",
       "source": "https://github.com/Bittu3487/chat-app"
@@ -47,7 +47,7 @@
     {
       "key": 7,
       "title": "Chatbot App",
-      "imageSrc": "https://previews.dropbox.com/p/thumb/ACf-vp8SoXk-5zn0KrdSihp7UKy50wQv3oafw_075x4BSicl0Bgp-J6uG7cVCBZeVvdzwKm3oyUsNpgEtqg7op6cA8Cqrh3Vmgm5heIcRvpJ3MyIY8nlcnh7_lj0nZA7OczfBuVFQ5CpcvMEFt9abhBF2adkm7ur6V1GodSpJzs-O0KfPGbWZJGHchyT8XVW8xtHAkch3ACEyRU2UbO9nZSmnJM5BEkz41x8sOa5uvq_P1VT9mlw0nMnyCloqbKD9Zpv0Rh47w55LBxW777IsqXwfxoErdZf0zmOZ_qPOWFXgdZXKjjbYS9qH_-C9BhgEp1i6dOD5dUqbGoysgVOMRsf/p.png?is_prewarmed=true",
+      "imageSrc": "https://www.dropbox.com/scl/fi/r6tq6dbb4pieu9v3vfp04/DALL-E-2024-10-29-09.03.05-A-professional-and-sleek-chatbot-application-interface-displayed-on-a-laptop-screen.-The-chat-window-has-a-clean-minimalist-design-with-rounded-messa.webp?rlkey=q14xgsoadha49x8f0soz85z55&st=24g9nul2&dl=0",
       "description": "This is a project made with Python flask",
       "demo":"",
       "source": "https://github.com/Bittu3487/ChatBotApp"
@@ -55,7 +55,7 @@
     {
       "key": 8,
       "title": "CodeExplanation App",
-      "imageSrc": "https://previews.dropbox.com/p/thumb/ACeUCu19NNm7TLSl88hBW8WWEdon8Aor0_I8Br3iDYdYUclNsILDE58badETXeEbYcjfQY5bLutztDqhCFacaYaUUJL8vY2ADwOAtWOjst9bSl5yCy7FcDg5tAcxp4w40v94jmKG--glRbskbIxWJUX2aemNO7N7IqdR-1q-AAMyUmPlB8XersSRAMTQd92ElW6LTsXx3kTMoE_EGpg4QtQbaJvEAvLDmsBET0sj6p4BXGJ6BvTHR6cCGHNrXtrEh3gjvCxSaUPO9nSlrNmdmFry3tGRJbtd-7Jh4nCgY5A-b3e7H-ZWwskjYywYaHjKpXI1J6F6y4RxbsFz884SEj7N/p.png?is_prewarmed=true",
+      "imageSrc": "https://www.dropbox.com/scl/fi/pyck05b5v65nj82w93bvi/DALL-E-2024-10-29-09.09.36-A-sleek-and-modern-web-app-interface-for-a-Code-Explanation-Tool-for-portfolio-display.-The-screen-shows-a-text-input-box-on-the-left-side-where-a-u.webp?rlkey=idj8taqj5br9gff6hoi4am0yo&st=75tuo6ql&dl=0",
       "description": "This is a project made with Python flask",
       "demo":"",
       "source": "https://github.com/Bittu3487/CodeExplaination"
@@ -63,7 +63,7 @@
     {
       "key": 9,
       "title": "CocktailFinder App",
-      "imageSrc": "https://previews.dropbox.com/p/thumb/ACdniqb5hQd2wdUssdYYfF6Ejuxb6MayQArGxw2zUmWmHPAcL4KHrOavg7zCsDQzKVeBDIlu8I_ymfT_pMXwt9wLt39ZEfMlMmU-ksz2G3gjXs4C3xeFuQIq-o9F-3kNI17wVCktkT_iHrhHrWrZRv7SElBCE_IIYTUUdQP-deGGsoSiUjfE2loaNsmfc96sI2zlMUpvPLRGWaN5u2huL78Bdxo8t82IxkIktGeuW0HpzjMVzD5o8Lu07RBhZvCmQsFoy1bLy9dG93v4PP_2SqQRFU-Wm-NmraIxmUtvNmFXeAgvpMz0tYOXw3p_b9EolLK1udEIlZSOY0ZiupY78_Pf/p.png?is_prewarmed=true",
+      "imageSrc": "https://www.dropbox.com/scl/fi/pc7hfstv59g6htuiz3332/cocktail.png?rlkey=4p9fc0gyuo1hdpqzt9c3sh9ia&st=8lw7e98a&dl=0",
       "description": "This is a project made with Complete Node js and express js",
       "demo":"https://cocktailfinder-xmym.onrender.com/",
       "source": "https://github.com/Bittu3487/CocktailFinder"
